@@ -1,16 +1,6 @@
-/**
- * @ (#) Computer.java      3/9/2025
- * <p>
- * Copyright (c) 2025 IUH. All rights reserved
- */
 
-package vn.edu.iuh.fit.factory.models;
+package models;
 
-/*
- * @description:
- * @author: Sinh Phan Tien
- * @date: 3/9/2025
- */
 public abstract class Computer {
     public abstract String getRAM();
     public abstract String getHDD();

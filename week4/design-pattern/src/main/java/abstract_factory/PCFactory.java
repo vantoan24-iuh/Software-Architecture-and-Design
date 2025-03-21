@@ -1,19 +1,8 @@
-/**
- * @ (#) PCFactory.java      3/12/2025
- * <p>
- * Copyright (c) 2025 IUH. All rights reserved
- */
+package abstract_factory;
 
-package vn.edu.iuh.fit.factory.abstract_factory;
+import models.Computer;
+import models.PC;
 
-import vn.edu.iuh.fit.factory.models.Computer;
-import vn.edu.iuh.fit.factory.models.PC;
-
-/*
- * @description:
- * @author: Sinh Phan Tien
- * @date: 3/12/2025
- */
 public class PCFactory implements ComputerAbstractFactory{
 
     private String ram;

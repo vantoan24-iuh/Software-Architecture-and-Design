@@ -1,16 +1,6 @@
-/**
- * @ (#) Server.java      3/9/2025
- * <p>
- * Copyright (c) 2025 IUH. All rights reserved
- */
 
-package vn.edu.iuh.fit.factory.models;
+package models;
 
-/*
- * @description:
- * @author: Sinh Phan Tien
- * @date: 3/9/2025
- */
 public class Server extends Computer{
     private String ram;
     private String hdd;

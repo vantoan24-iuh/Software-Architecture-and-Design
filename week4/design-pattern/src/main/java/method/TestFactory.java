@@ -1,16 +1,5 @@
-/**
- * @ (#) TestFactory.java      3/9/2025
- * <p>
- * Copyright (c) 2025 IUH. All rights reserved
- */
+package method;
 
-package vn.edu.iuh.fit.factory.method;
-
-/*
- * @description:
- * @author: Sinh Phan Tien
- * @date: 3/9/2025
- */
 public class TestFactory {
     public static void main(String[] args) {
         ComputerFactory computerFactory = new ComputerFactory();
